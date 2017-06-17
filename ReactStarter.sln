@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PusherRealtimeChat.UI", "PusherRealtimeChat.UI\PusherRealtimeChat.UI.csproj", "{C8FDA775-F970-4639-B7A0-9D6DB20F67C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactStarter", "PusherRealtimeChat.UI\ReactStarter.csproj", "{C8FDA775-F970-4639-B7A0-9D6DB20F67C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
