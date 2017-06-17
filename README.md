@@ -1,1 +1,1 @@
-h1. React Starter
+# React Starter
